@@ -14,6 +14,7 @@
 - **Iniciar e pausar o temporizador**
 - **Ajustar o tempo adicionando ou removendo minutos**
 - **sons ambientes**
+- **Tema dark/white**
 
 <h2>Confira o projeto 👇</h2>
 
